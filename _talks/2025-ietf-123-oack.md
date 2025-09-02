@@ -8,4 +8,4 @@ date: 2025-07-15
 location: "Madrid, Spain"
 ---
 
-I presented my paper "MAY is not enough! QUIC servers should skip packet numbers" at the QUIC Working Groupe during the IETF 123 and during the Applied Networking Research Workshop 2025!
+I presented my paper "MAY is not enough! QUIC servers should skip packet numbers" at the QUIC Working Group during the IETF 123 and during the Applied Networking Research Workshop 2025!

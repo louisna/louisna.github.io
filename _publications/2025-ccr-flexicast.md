@@ -9,7 +9,7 @@ venue: 'ACM SIGCOMM Computer Communication Review, Volume 55, Issue 2'
 authors: <strong>Louis Navarre</strong>, Quentin de Coninck, Tom Barbette, Olivier Bonaventure
 slidesurl:
 paperurl: 'http://louisna.github.io/files/2025-ccr-flexicast.pdf'
-bibtexurl: 'http://louisna.github.io/files/bibtex1.2025-ccr-flexicast.bib'
+bibtexurl: 'http://louisna.github.io/files/2025-ccr-flexicast.bib'
 citation: 'Navarre, L., De Coninck, Q., Barbette, T., & Bonaventure, O. (2025). Taking the Best of Multicast and Unicast with Flexicast QUIC. ACM SIGCOMM Computer Communication Review, 55(2), 2-12.'
 ---
 With IP Multicast, a source can efficiently send the same information to a set of
